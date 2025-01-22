@@ -2,6 +2,10 @@
 ## Overview
 This project presents an interactive dashboard created using Power BI to visualize and analyze employee demographic and salary data. The goal is to provide actionable insights for human resources and management to make data-driven decisions about workforce diversity, department allocation, and compensation strategies.
 
+
+![Screenshot 2025-01-19 181623](https://github.com/user-attachments/assets/d3962b09-9878-48f1-a6cb-377e5bfc6f33)
+
+
 ## Key Visualizations and Insights
 Visualizes the balance of male, female, non-binary, and unspecified gender categories.
 ### Key Insights: 
